@@ -1,5 +1,11 @@
 {
   "menuItems": [
+    {},
+    {},
+    {
+      "label": "test",
+      "link": "/test"
+    },
     {
       "label": "Home",
       "link": "/"
