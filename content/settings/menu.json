@@ -1,7 +1,5 @@
 {
   "menuItems": [
-    {},
-    {},
     {
       "label": "test",
       "link": "/test"
