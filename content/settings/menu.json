@@ -15,6 +15,10 @@
     {
       "label": "Contact",
       "link": "/contact"
+    },
+    {
+      "label": "Test",
+      "link": "/test"
     }
   ]
 }
