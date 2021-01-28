@@ -19,6 +19,10 @@
     {
       "label": "Test",
       "link": "/test"
+    },
+    {
+      "label": "座谈",
+      "link": "/aaaa"
     }
   ]
 }
